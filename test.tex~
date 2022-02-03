@@ -1,0 +1,62 @@
+\documentclass[12pt]{report}
+\usepackage{babel}
+\usepackage{lastpage}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage[vmargin=1cm]{geometry}
+\usepackage{xcolor}
+\usepackage{minibox}
+\usepackage[utf8x]{inputenc}
+\usepackage{comment}
+\usepackage{colortbl}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{lmodern}
+\usepackage{float}
+\usepackage[normalem]{ulem}
+\usepackage{boldline}
+\usepackage{framed}
+\usepackage{bbding}
+\usepackage{natbib}
+\usepackage{url}
+\usepackage{amsmath}
+\usepackage{graphicx, xcolor, lipsum}
+\usepackage{parskip}
+\usepackage{pdfpages}
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{gensymb}
+\usepackage[colorlinks=true, linkcolor=black]{hyperref}
+
+\nonstopmode
+
+\fancyhead[C]{\colorbox{red}{\textbf{Job Traveler}}}
+\fancyhead[R]{Page\thepage\ of \pageref{LastPage}}
+\lhead{\begin{tabular}{lll}
+		%\includegraphics[scale=0.1]{EMF_logo.jpg} & &\\
+												  && \\
+												  && \\
+												  && \\
+												  && \\
+												  && \\
+												  && \\
+												  && \\
+ 		\end{tabular}
+}
+	
+
+\lfoot{EMF-400 Rev. A 9/3/2019}
+\cfoot{}
+
+\thispagestyle{fancy}
+\begin{document}
+
+\paragraph{Operation}
+
+hello
+
+
+\newpage
+\paragraph{Operation}
+goodbye
+\end{document}

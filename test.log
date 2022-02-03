@@ -1,0 +1,147 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.21)  8 NOV 2021 15:35
+entering extended mode
+**./test.tex
+(test.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-12>
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/base\minima
+l.cls
+Document Class: minimal 2001/05/25 Standard LaTeX minimal class
+)
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/ocgx\ocgx.s
+ty
+Package: ocgx 2012/11/14 v0.5{} manage OCG in PDF document
+
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/ocg-p\ocg-p
+.sty
+Package: ocg-p 2013/01/10 v0.4 Optional Content Group in a PDF document
+
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso
+-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen138
+\ESO@tempdimb=\dimen139
+
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/graphics\ke
+yval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcol
+or.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cf
+g\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/graphics-de
+f\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifp
+df.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ift
+ex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifx
+etex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xke
+yval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\x
+keyval.tex
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\x
+kvutils.tex
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count182
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\@ocgp@num=\count183
+\@ocgp@tonum=\count184
+\@ocgp@sonum=\count185
+))
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l
+3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count186
+\l__pdf_internal_box=\box50
+) (test.aux
+! I can't write on file `test.pdf'.
+Please type another file name for output: 
+)
+\openout1 = `test.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+(C:\Users\vmikhaltsevichadm\AppData\Local\Programs\MiKTeX\tex/context/base/mkii
+\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count187
+\scratchdimen=\dimen140
+\scratchbox=\box51
+\nofMPsegments=\count188
+\nofMParguments=\count189
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count190
+\MPscratchDim=\dimen141
+\MPnumerator=\count191
+\makeMPintoPDFobject=\count192
+\everyMPtoPDFconversion=\toks20
+) /OCocg1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 5.
+ [1{C:/Users/vmikhaltsevichadm/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] 
+(test.aux) ) 
+Here is how much of TeX's memory you used:
+ 1690 strings out of 478927
+ 26333 string characters out of 2846846
+ 324318 words of memory out of 3000000
+ 19581 multiletter control sequences out of 15000+600000
+ 403738 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 77i,6n,89p,215b,101s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/vmikhaltsevichadm/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx10.pfb><C:/Users/vmikhaltsevichadm/AppData/Local/Prog
+rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on .pdf (1 page, 25524 bytes).
+PDF statistics:
+ 19 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
+
